@@ -1,0 +1,13 @@
+{
+    "name": "vinny/quete_twig",
+    "require": {
+        "twig/twig": "*",
+        "squizlabs/php_codesniffer": "*"
+    },
+    "authors": [
+        {
+            "name": "Vinny",
+            "email": "paulvinny@gmail.com"
+        }
+    ]
+}
